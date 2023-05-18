@@ -1,0 +1,19 @@
+{
+    "name": "vendor/sms",
+    "description": "Php School Project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abderrahmen Said",
+            "email": "said10abderrahmen@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
